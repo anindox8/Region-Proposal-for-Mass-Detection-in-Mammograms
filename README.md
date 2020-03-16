@@ -1,9 +1,8 @@
-# Mammographic Region Proposal Algorithms for Training  
-# Support Vector Machines and Convolutional Neural Networks
+# Mammographic Region Proposal Algorithms for Training Support Vector Machines and Convolutional Neural Networks
 
-**Problem Statement**: Fully supervised, multi-class 3D brain segmentation in T1 MRI. 
+**Problem Statement**: Extract candidate regions of interest (ROI) for mass detection in mammograms, to-be-used to train a classifier (eg. *support vector machines*, *convolutional neural networks*, etc.) 
  
-**Data**: *Label 0*: Background; *Label 1*: Cerebrospinal Fluid (CSF); *Label 2:* Gray Matter (GM); *Label 3:* White Matter (WM) [10/5/3 : Train/Val/Test Ratio]
+**Data**: *INbreast* Digital Mammographic Dataset - 115 cases (410 images).
  
 ## Preprocessing (*Contrast-Limited Adaptive Equalization)*
 ![Preprocessing](reports/images/preprocessing.png)
@@ -19,3 +18,8 @@
 
 ## Patch Extraction (*Guided*)
 ![Patch Extraction](reports/images/patch.png) 
+
+## References
+● Hang M. et al. (2019) "*Multi-Scale Sifting for Mammographic Mass Detection and Segmentation*", Biomedical Physics & Engineering Express, 5-2. DOI:10.1088/2057-1976/aafc07
+● Radhakrishna A. et al. (2010) "*SLIC Superpixels Compared to State-of-the-Art Superpixel Methods*", IEEE TPAMI. DOI:10.1109/TPAMI.2012.120
+● Moreira IC et al. (2012) "INbreast: Toward A Full-Field Digital Mammographic Database", Acad Radiol. 2012;19(2):236–248. doi:10.1016/j.acra.2011.09.014
