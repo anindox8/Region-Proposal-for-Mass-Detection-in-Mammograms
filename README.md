@@ -1,4 +1,4 @@
-# Ensemble of Convolutional Neural Networks for 3D Multi-Class Brain Segmentation in T1 MRI
+# **Mammographic Region Proposal Algorithms** for Training <br> Support Vector Machines and Convolutional Neural Networks
 
 **Problem Statement**: Fully supervised, multi-class 3D brain segmentation in T1 MRI. 
 
