@@ -1,8 +1,8 @@
-# Mammographic Region Proposal Algorithms for Training Support Vector Machines and Convolutional Neural Networks
+# Region Proposal Algorithms for Training Support Vector Machines and Convolutional Neural Networks
 
 **Contributors**: Jaime Simarro Viana, Zohaib Salahuddin, Ahmed Gouda, Anindo Saha  
 
-**Problem Statement**: Extract candidate regions of interest (ROI) for mass detection in mammograms, to-be-used to train a classifier (eg. *support vector machines*, *convolutional neural networks*, etc.) 
+**Problem Statement**: Extract candidate regions of interest (ROI) for mass detection in mammograms, that are subsequently to-be-used for training a classifier (eg. *support vector machines*, *convolutional neural networks*, etc.) 
  
 **Data**: *INbreast* Digital Mammographic Dataset - 115 cases (410 images).
  
