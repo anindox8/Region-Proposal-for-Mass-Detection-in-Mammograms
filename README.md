@@ -1,4 +1,4 @@
-# Mammographic Region Proposal Algorithms for Training Support Vector Machines and Convolutional Neural Networks
+# Region Proposal Algorithms to Train Support Vector Machines and Convolutional Neural Networks for Mass Detection in Mammograms
 
 **Contributors**: Jaime Simarro Viana, Zohaib Salahuddin, Ahmed Gouda, Anindo Saha  
 
