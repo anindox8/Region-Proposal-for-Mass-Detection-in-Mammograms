@@ -14,11 +14,11 @@
 ![MMS](reports/images/mms.png)
 
     
-## Region-Of-Interest Segmentation (*SLIC Superpixels*) 
+## SLIC Superpixels Segmentation (*Unsupervised*) 
 ![SLIC Superpixels](reports/images/slic.png) 
  
 
-## Patch Extraction (*Guided*)
+## Patch Extraction (*Supervised*)
 ![Patch Extraction](reports/images/patch.png) 
 
 ## References
