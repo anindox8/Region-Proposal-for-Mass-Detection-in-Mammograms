@@ -14,11 +14,11 @@
 ![MMS](reports/images/mms.png)
 
     
-## SLIC Superpixels Segmentation (*Unsupervised*) 
+## Unsupervised Segmentation (*SLIC Superpixels*) 
 ![SLIC Superpixels](reports/images/slic.png) 
  
 
-## Patch Extraction (*Supervised*)
+## Supervised Patch Extraction (*Class-Weighted Sampling*)
 ![Patch Extraction](reports/images/patch.png) 
 
 ## References
