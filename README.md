@@ -4,7 +4,7 @@
 
 **Problem Statement**: Extract candidate regions of interest (ROI) for mass detection in mammograms, that are subsequently to-be-used for training a classifier (eg. *support vector machines*, *convolutional neural networks*, etc.) 
  
-**Dataset**: [*INbreast* Digital Mammographic Dataset](https://pubmed.ncbi.nlm.nih.gov/22078258/) - 115 cases (410 images) [[Download](https://drive.google.com/file/d/19n-p9p9C0eCQA1ybm6wkMo-bbeccT_62/view) - Credit: @wentaozhu]
+**Dataset**: [*INbreast* Digital Mammographic Dataset](https://pubmed.ncbi.nlm.nih.gov/22078258/) - 115 cases (410 images). [[Download](https://drive.google.com/file/d/19n-p9p9C0eCQA1ybm6wkMo-bbeccT_62/view) - Credit: @wentaozhu]
  
 ## Preprocessing (*Contrast-Limited Adaptive Equalization)*
 ![Preprocessing](reports/images/preprocessing.png)
